@@ -12,7 +12,7 @@ title: Money Laundering in Bitcoin Transactions
 Crytocurrency is becoming increasingly popular and its pseudonymity allows criminals to hide in plain sight. We aim to leverage the latest Machine Learning techniques to overcome Money Laundering. Specifically, we will focus on Graph Networks, Recurrent Neural Networks, etc to predict illicit transactions using multiple features. Given limited research in this space, we would also like to build/simulate a synthetic dataset for future study. 
 
 <p align="center">
-    <img src="assets/images/bitcoin.png" width="50%">
+    <img src="assets/images/bitcoin.png" width="100%">
 </p>
 
 # Application Process
