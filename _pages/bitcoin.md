@@ -1,30 +1,29 @@
 ---
 layout: page
-title: Fraud Detection in Bitcoin Transactions
+title: Money Laundering in Bitcoin Transactions
 ---
 
 <h1>
-    <center>Fraud Detection in Bitcoin Transactions</center>
+    <center>Money Laundering in Bitcoin Transactions</center>
 </h1>
 
 # Description
 
-With the growing popularity of bitcoins, it's very important to ensure that this form of currency isn't being used by fraudsters. In this project we focus on the specific ascpect of people taking advantage of  Bitcoins for  money laundering. We aim to leverage  several new graphical networks or simple neural networks for identifing patterns and preventing such activites before hand
+Crytocurrency is becoming increasingly popular and its pseudonymity allows criminals to hide in plain sight. We aim to leverage the latest Machine Learning techniques to overcome Money Laundering. Specifically, we will focus on Graph Networks, Recurrent Neural Networks, etc to predict illicit transactions using multiple features. Given limited research in this space, we would also like to build/simulate a synthetic dataset for future study. 
 
 <p align="center">
-    <img src="./assets/images/bitcoin.png" width="50%">
+    <img src="assets/images/bitcoin.png" width="50%">
 </p>
 
 # Application Process
 
-- Insert link for app, along with deadlines 
-- Maybe add some resources where people can start learning stuff for filling in the app
-- Bonus questions
-- Submission Link
-- Update later with Interview dates and selected members
+Coming shortly!
 
-# Time Left for Submission
-<!-- <div class="container">
-    <div class="countdown-styled" data-date="May 3, 2021 23:59:59"></div>
-</div> -->
+# Submission Deadline
+
+Coming shortly!
+
+<div class="container">
+    <div class="countdown-styled" data-date="Apr 17, 2021 23:59:59"></div>
+</div>
 
